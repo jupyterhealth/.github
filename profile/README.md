@@ -1,7 +1,7 @@
 # Welcome to the JupyterHealth community 👋
 
 JupyterHealth is a project that connects wearable, clinical, and patient-generated data to computational and AI tools for health care.
-All of the tools it builds are open source, built on Jupyter and open standards like FHIR and Open mHealth, and made for researchers, clinicians, and patients.
+All of the tools it builds are open source, built on [Jupyter](https://jupyter.org) and open standards like [FHIR](https://hl7.org/fhir) and [Open mHealth](https://www.openmhealth.org), and made for researchers, clinicians, and patients.
 
 - See the [JupyterHealth documentation](https://docs.jupyterhealth.org) to learn more.
 - Chat in the [#jupyterhealth channel on the Jupyter Zulip](https://jupyter.zulipchat.com/#narrow/channel/531270-jupyterhealth).
